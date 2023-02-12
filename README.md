@@ -1,6 +1,4 @@
 # HCMUS Events Transferring (Beta 0.1.0)
-Bot được thiết lập bởi CakeBoy (Vì quá lười để chuyển từng events từ moodle của calendar qua :3)
-
 Chuyển đổi các deadline và ghi chú từ lịch của moodle sang Google Calendar
 
 ## Lưu ý
